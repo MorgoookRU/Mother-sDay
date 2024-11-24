@@ -1,0 +1,40 @@
+.button__title{
+    color: white;
+    font-family: "Geologica", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 50;
+    font-style: normal;
+}
+.button{
+    color:rgb(255, 128, 149);
+    border-radius: 10px;
+    width: 80px ;
+    height: 40px;
+    background-color: white;
+    border: none;
+    font-family: "Geologica", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 150;
+    font-style: normal;
+    font-size: 19px;
+}
+.congratulation__title{
+    display: none;
+    color: white;
+    font-family: "Geologica", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 50;
+    font-style: normal;
+}
+
+.congratulation__img{
+    display: none;
+    border-radius: 10px;
+    width: 370px;
+}
+body{
+    background-image: linear-gradient(to right,#fcadcb,#f76ca1);
+}
+@media screen {
+    
+}
